@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-Rock Paper Scissors game for beginners to practice coding using Randomisation and python Lists
+Rock Paper Scissors game with ASCII art for beginners to practice coding using Randomisation and python Lists
 
 To Run the Codes:
 1) create a new PyCharm project 
